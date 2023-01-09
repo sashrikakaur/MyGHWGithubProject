@@ -1,7 +1,7 @@
 # GHW
 
 Hey folks,
-Welcome to my project
+Welcome to my project. We are learning git live at twitch.tv/mlh
 
 # Learning Git
 
